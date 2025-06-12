@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ExploreWorld - Register</title>
     <!-- Vite for Tailwind CSS -->
-    @vite('resources/css/app.css')
+    <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* Custom animation for fade-in effect */
         @keyframes fadeIn {
